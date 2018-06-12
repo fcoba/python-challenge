@@ -1,0 +1,11 @@
+The complete list of candidates who received votes are: 
+Vestal
+Torres
+Seth
+Cordin
+Khan
+Correy
+Li
+O'Tooley
+The percentage of votes O'Tooley won is 2.44%, and the total number of votes O'Tooley got is 105630
+The winner of the election based on popular vote is Khan, with 2218231 votes
