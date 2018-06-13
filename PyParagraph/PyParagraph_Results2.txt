@@ -1,0 +1,4 @@
+Average Sentence Length: 25.91
+Approximate Sentence Count: 11
+Approximate Word Count: 285
+Average Letter Count: 5.2
